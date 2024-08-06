@@ -1,0 +1,88 @@
+May 29, 2024 8:33:27 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Program Start
+May 29, 2024 8:33:27 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Cleared Output File
+May 29, 2024 8:33:28 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Day Passed. Days elapsed: 0
+May 29, 2024 8:33:29 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Day Passed. Days elapsed: 1
+May 29, 2024 8:33:29 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Delivery
+May 29, 2024 8:33:29 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable delivery
+INFO: Delivery Completed
+May 29, 2024 8:33:30 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Day Passed. Days elapsed: 2
+May 29, 2024 8:33:30 AM edu.curtin.oose2024s1.assignment2.Factory makeBike
+INFO: Online Bike Created
+May 29, 2024 8:33:30 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Purchase Online, Email: qgbg@oexvbsh.vsa
+May 29, 2024 8:33:30 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable purchaseOnline
+INFO: Purchase Online Completed for email: qgbg@oexvbsh.vsa
+May 29, 2024 8:33:31 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Day Passed. Days elapsed: 3
+May 29, 2024 8:33:31 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Pick Up, Email: qgbg@oexvbsh.vsa
+May 29, 2024 8:33:31 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable pickUp
+INFO: Bike with Email: qgbg@oexvbsh.vsa Pickup Completed
+May 29, 2024 8:33:32 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Day Passed. Days elapsed: 4
+May 29, 2024 8:33:32 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Purchase In Store
+May 29, 2024 8:33:32 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable purchaseInStore
+INFO: Purhase in-store Completed
+May 29, 2024 8:33:32 AM edu.curtin.oose2024s1.assignment2.Factory makeBike
+INFO: Online Bike Created
+May 29, 2024 8:33:32 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Purchase Online, Email: nphffuw@mvkmb.smh
+May 29, 2024 8:33:32 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable purchaseOnline
+INFO: Purchase Online Completed for email: nphffuw@mvkmb.smh
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Day Passed. Days elapsed: 5
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Pick Up, Email: zrrzegf@brzo.jbp
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable pickUp
+INFO: Bike with Email: zrrzegf@brzo.jbp not found
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.Factory makeBike
+INFO: Online Bike Created
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Purchase Online, Email: pjywkce@hqq.ymf
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable purchaseOnline
+INFO: Purchase Online Completed for email: pjywkce@hqq.ymf
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.Factory makeBike
+INFO: Online Bike Created
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Purchase Online, Email: dvn@wos.mst
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable purchaseOnline
+INFO: Purchase Online Completed for email: dvn@wos.mst
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.Factory makeBike
+INFO: Online Bike Created
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Purchase Online, Email: zrrzegf@brzo.jbp
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable purchaseOnline
+INFO: Purchase Online Completed for email: zrrzegf@brzo.jbp
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.Factory makeBike
+INFO: Online Bike Created
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Purchase Online, Email: pwrld@wbvyk.dyp
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable purchaseOnline
+INFO: Purchase Online Completed for email: pwrld@wbvyk.dyp
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Purchase In Store
+May 29, 2024 8:33:33 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable purchaseInStore
+INFO: Purhase in-store Completed
+May 29, 2024 8:33:34 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Day Passed. Days elapsed: 6
+May 29, 2024 8:33:34 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Paying Employee $1000
+May 29, 2024 8:33:35 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Day Passed. Days elapsed: 7
+May 29, 2024 8:33:35 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Attempting Delivery
+May 29, 2024 8:33:35 AM edu.curtin.oose2024s1.assignment2.states.AllAvailable delivery
+INFO: Delivery Completed
+May 29, 2024 8:33:36 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Day Passed. Days elapsed: 8
+May 29, 2024 8:33:36 AM edu.curtin.oose2024s1.assignment2.App main
+INFO: Total Number of inputs: 12
+Total Number of failures: 0
+ PROGRAM END

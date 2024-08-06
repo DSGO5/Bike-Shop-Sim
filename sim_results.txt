@@ -1,0 +1,96 @@
+*******************************************
+Number of Days Elapsed: 1
+Total Cash in bank account: 15000
+Number of bikes available for purchase: 50
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 0
+TOTAL BIKES: 50
+*******************************************
+
+*******************************************
+Number of Days Elapsed: 2
+Total Cash in bank account: 15000
+Number of bikes available for purchase: 50
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 0
+TOTAL BIKES: 50
+*******************************************
+
+EVENT: DELIVERY
+*******************************************
+Number of Days Elapsed: 3
+Total Cash in bank account: 10000
+Number of bikes available for purchase: 60
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 0
+TOTAL BIKES: 60
+*******************************************
+
+EVENT: PURCHASE-ONLINE qgbg@oexvbsh.vsa
+*******************************************
+Number of Days Elapsed: 4
+Total Cash in bank account: 11000
+Number of bikes available for purchase: 59
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 1
+TOTAL BIKES: 60
+*******************************************
+
+EVENT: PICK-UP qgbg@oexvbsh.vsa
+*******************************************
+Number of Days Elapsed: 5
+Total Cash in bank account: 11000
+Number of bikes available for purchase: 59
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 0
+TOTAL BIKES: 59
+*******************************************
+
+EVENT: PURCHASE-IN-STORE
+EVENT: PURCHASE-ONLINE nphffuw@mvkmb.smh
+*******************************************
+Number of Days Elapsed: 6
+Total Cash in bank account: 13000
+Number of bikes available for purchase: 57
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 1
+TOTAL BIKES: 58
+*******************************************
+
+EVENT: PICK-UP zrrzegf@brzo.jbp
+!!!!!!!!!!!!!!!!\nFAILURE: Bike not found
+EVENT: PURCHASE-ONLINE pjywkce@hqq.ymf
+EVENT: PURCHASE-ONLINE dvn@wos.mst
+EVENT: PURCHASE-ONLINE zrrzegf@brzo.jbp
+EVENT: PURCHASE-ONLINE pwrld@wbvyk.dyp
+EVENT: PURCHASE-IN-STORE
+*******************************************
+Number of Days Elapsed: 7
+Total Cash in bank account: 18000
+Number of bikes available for purchase: 52
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 5
+TOTAL BIKES: 57
+*******************************************
+
+EVENT: PAY EMPLOYEE $1000
+
+*******************************************
+Number of Days Elapsed: 8
+Total Cash in bank account: 17000
+Number of bikes available for purchase: 52
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 5
+TOTAL BIKES: 57
+*******************************************
+
+EVENT: DELIVERY
+*******************************************
+Number of Days Elapsed: 9
+Total Cash in bank account: 12000
+Number of bikes available for purchase: 62
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 5
+TOTAL BIKES: 67
+*******************************************
+
